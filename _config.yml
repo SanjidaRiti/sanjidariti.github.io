@@ -25,10 +25,10 @@ author:
   # Biographic information
   avatar           : "/images/Sanjida.jpeg"
   name             : "Sanjida Akter"
-  pronouns         : # example: "she/her"  
+  pronouns         : "she/her"  
   bio              : "Short biography for the left-hand sidebar"
   location         : "Dhaka, Bangladesh"
-  employer         : "Samsung R&D Institute"
+  employer         : "Samsung R&D Institute, Bangladesh"
   uri              : # URL
   email            : "sanjida.akter.iit07@gmail.com" 
 
