@@ -23,7 +23,7 @@ repository               : "SanjidaRiti/sanjidariti.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "Sanjida.jpeg"
+  avatar           : "/images/Sanjida.jpeg"
   name             : "Sanjida Akter"
   pronouns         : # example: "she/her"  
   bio              : "Short biography for the left-hand sidebar"
